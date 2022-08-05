@@ -1,0 +1,1 @@
+# skaffold-m-svc-config
